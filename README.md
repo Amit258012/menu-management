@@ -7,7 +7,7 @@ For more info [ReadMe](https://docs.google.com/document/d/1TAftxo1HQwMBHf-KwLM-6
 
 1. Clone the repository: `git clone https://github.com/amit258012/menu-management.git`
 2. Install dependencies: `npm install`
-3. Setup database: Update the MongoDB connection string in `db.js`
+3. Setup database: download `mongodb Compass` and add the data to the compass
 
 ## Running the Server
 
@@ -34,27 +34,3 @@ The server will run on port 3000 by default.
 -   **GET /api/items:** Get all items
 -   **POST /api/items:** Create a new item
 -   ...
-
-## Database Schema
-
--   **Category:**
-
-    -   name: String (required)
-    -   image: String
-    -   description: String
-    -   ...
-
--   **Subcategory:**
-
-    -   name: String (required)
-    -   image: String
-    -   description: String
-    -   ...
-
--   **Item:**
-    -   name: String (required)
-    -   image: String
-    -   description: String
-    -   ...
-
-...
