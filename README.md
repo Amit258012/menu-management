@@ -5,7 +5,7 @@ For more info [ReadMe](https://docs.google.com/document/d/1TAftxo1HQwMBHf-KwLM-6
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/amit258012/menu-management.git`
+1. Clone the repository: `[git clone https://github.com/amit258012/menu-management.git](https://github.com/Amit258012/menu-management.git)`
 2. Install dependencies: `npm install`
 3. Setup database: download `mongodb Compass` and add the data to the compass
 
