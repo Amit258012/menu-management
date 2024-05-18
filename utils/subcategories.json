@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Smartphones",
+		"image": "https://example.com/smartphones.jpg",
+		"description": "Subcategory for mobile phones",
+		"taxApplicability": true,
+		"tax": 10,
+		"taxType": "Percentage",
+		"category": "6648675106e95c97c8dbb1dc"
+	},
+	{
+		"name": "Laptops",
+		"image": "https://example.com/laptops.jpg",
+		"description": "Subcategory for personal laptops",
+		"taxApplicability": true,
+		"tax": 10,
+		"taxType": "Percentage",
+		"category": "6648675106e95c97c8dbb1dc"
+	},
+	{
+		"name": "Fiction Books",
+		"image": "https://example.com/fictionbooks.jpg",
+		"description": "Subcategory for fiction books",
+		"taxApplicability": false,
+		"tax": 0,
+		"taxType": "",
+		"category": "6648675106e95c97c8dbb1de"
+	},
+	{
+		"name": "Non-fiction Books",
+		"image": "https://example.com/nonfictionbooks.jpg",
+		"description": "Subcategory for non-fiction books",
+		"taxApplicability": false,
+		"tax": 0,
+		"taxType": "",
+		"category": "6648675106e95c97c8dbb1de"
+	}
+]

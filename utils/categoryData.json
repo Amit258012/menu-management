@@ -1,0 +1,122 @@
+[
+	{
+		"name": "Electronics",
+		"image": "https://example.com/electronics.jpg",
+		"description": "Category for electronic gadgets",
+		"taxApplicability": true,
+		"tax": 10,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Clothing",
+		"image": "https://example.com/clothing.jpg",
+		"description": "Category for trendy clothing",
+		"taxApplicability": true,
+		"tax": 8,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Books",
+		"image": "https://example.com/books.jpg",
+		"description": "Category for fiction and non-fiction books",
+		"taxApplicability": false,
+		"tax": 0,
+		"taxType": ""
+	},
+	{
+		"name": "Home Decor",
+		"image": "https://example.com/homedecor.jpg",
+		"description": "Category for stylish home decor items",
+		"taxApplicability": true,
+		"tax": 12,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Sports & Fitness",
+		"image": "https://example.com/sports.jpg",
+		"description": "Category for sports equipment and fitness gear",
+		"taxApplicability": true,
+		"tax": 5,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Beauty & Personal Care",
+		"image": "https://example.com/beauty.jpg",
+		"description": "Category for skincare and beauty products",
+		"taxApplicability": true,
+		"tax": 15,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Toys & Games",
+		"image": "https://example.com/toys.jpg",
+		"description": "Category for kids' toys and games",
+		"taxApplicability": true,
+		"tax": 7,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Kitchen Appliances",
+		"image": "https://example.com/kitchen.jpg",
+		"description": "Category for modern kitchen appliances",
+		"taxApplicability": true,
+		"tax": 10,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Furniture",
+		"image": "https://example.com/furniture.jpg",
+		"description": "Category for stylish furniture pieces",
+		"taxApplicability": true,
+		"tax": 12,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Automobiles",
+		"image": "https://example.com/automobiles.jpg",
+		"description": "Category for cars and motorcycles",
+		"taxApplicability": true,
+		"tax": 18,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Jewelry",
+		"image": "https://example.com/jewelry.jpg",
+		"description": "Category for elegant jewelry items",
+		"taxApplicability": true,
+		"tax": 8,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Pet Supplies",
+		"image": "https://example.com/pets.jpg",
+		"description": "Category for pet food and accessories",
+		"taxApplicability": true,
+		"tax": 5,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Travel Accessories",
+		"image": "https://example.com/travel.jpg",
+		"description": "Category for travel essentials",
+		"taxApplicability": true,
+		"tax": 10,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Music Instruments",
+		"image": "https://example.com/music.jpg",
+		"description": "Category for musical instruments",
+		"taxApplicability": true,
+		"tax": 15,
+		"taxType": "Percentage"
+	},
+	{
+		"name": "Office Supplies",
+		"image": "https://example.com/office.jpg",
+		"description": "Category for office stationery and supplies",
+		"taxApplicability": true,
+		"tax": 12,
+		"taxType": "Percentage"
+	}
+]
