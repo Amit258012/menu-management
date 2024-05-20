@@ -34,3 +34,20 @@ The server will run on port 3000 by default.
 -   **GET /api/items:** Get all items
 -   **POST /api/items:** Create a new item
 -   ...
+
+### QNA
+
+-   Which database you have chosen and why?
+-   Database used => MongoDB, It has flexible schema and it can scale easily by horizontal sharding and easy to use,
+-   I used Mongoose, it makes the woking with schema very easy
+
+-   3 things that you learned from this assignment?
+-   1. How to use Mongoose schema
+-   2. MongoDB relations (one to one, many to one , many to many)
+-   3. Structured way of writing code (best practices).
+
+-   What was the most difficult part of the assignment?
+-   It took me time to understand the relationships in mongodb.
+
+-   What you would have done differently given more time?
+-   I would like to learn more about the reference in mongodb and implement schemas better.

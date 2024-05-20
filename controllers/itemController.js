@@ -145,6 +145,7 @@ const getItem = async (req, res) => {
  */
 const searchItem = async (req, res) => {
 	const item = req.query.name;
+	console.log(item);
 	try {
 		const items = await Item.findOne({ name: item });
 		if (!items) {
